@@ -1,0 +1,7 @@
+[core]
+include = Kernel/IPhone|SDKSolutions/code/iPhone
+debug = False
+[master]
+clearcase = c:/views/jinde_ios_94_git
+branches = *
+
